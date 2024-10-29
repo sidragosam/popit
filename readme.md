@@ -28,7 +28,7 @@ Clone this repository to get started:
 
 ```bash
 git clone https://github.com/sidragosam/popit.git
-cd pop-it
+cd popit
 ```
 
 Open index.html in your browser to see it in action!
